@@ -1,1 +1,5 @@
 This is a simple task to print the billing list for customers.
+Wang Xia is learning vim.
+That's so cool.
+Wonderful!
+
