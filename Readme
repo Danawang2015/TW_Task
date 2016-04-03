@@ -4,6 +4,7 @@ That's so cool.
 Wonderful!
 testing branch!
 
+<<<<<<< HEAD
 
 
 
@@ -54,3 +55,7 @@ bbb
 bbb
 bbb
 bbb
+=======
+Testing branch!
+
+>>>>>>> testing
